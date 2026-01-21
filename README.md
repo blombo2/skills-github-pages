@@ -29,6 +29,8 @@ We'll work in a branchbranch, `my-pages`, that I created for you to get this sit
 
 
 <button>here</button>
+<hr>
+<button text="qwerty"></button>
 
 Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
 
